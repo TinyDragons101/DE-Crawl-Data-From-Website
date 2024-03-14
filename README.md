@@ -5,7 +5,7 @@
 - [Requirement](#requirement)
 
 ## Introduction
-This is my first DE project, using Python to crawl data on film websites and ingest into file .csv
+This is my first DE project, using Python to crawl data on film websites and ingest to file .csv
 
 ## Requirement
 

@@ -9,5 +9,3 @@ This is my first DE project, using Python to crawl data on film websites and ing
 
 ## Requirement
 
-## Walkthrough
-

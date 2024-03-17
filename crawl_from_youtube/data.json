@@ -1,0 +1,40 @@
+{
+    "file_log" : "log_file.log",
+    "file_csv" : "csv_file.csv",
+    "dbms_host" : "localhost",
+    "table_name" : "youtube_videos",
+    "event" : {
+        "urls" : "https://www.youtube.com/",
+        "table_name" : "videos",
+        "data_field" : [
+            {
+                "field" : "id",
+                "type" : "varchar"
+            },
+            {
+                "field" : "video_name",
+                "type" : "varchar"
+            },
+            {
+                "field" : "video_image_link",
+                "type" : "varchar"
+            },
+            {
+                "field" : "video_link",
+                "type" : "varchar"
+            },
+            {
+                "field" : "author_name",
+                "type" : "varchar"
+            },
+            {
+                "field" : "author_image_link",
+                "type" : "varchar"
+            },
+            {
+                "field" : "author_link",
+                "type" : "varchar"   
+            }
+        ]
+    }
+}

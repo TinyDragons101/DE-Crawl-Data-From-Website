@@ -9,7 +9,7 @@
         "data_field" : [
             {
                 "field" : "video_id",
-                "type" : "varchar"
+                "type" : "int"
             },
             {
                 "field" : "video_name",

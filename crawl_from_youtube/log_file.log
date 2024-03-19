@@ -1,2 +1,3 @@
-2024-03-20 02:23:18,611 - INFO - 18 : Connected to <connection object at 0x1202d3eb0; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5432', closed: 0>
-2024-03-20 02:23:18,617 - INFO - 7 : Start create table youtube_videos
+2024-03-20 03:02:00,535 - INFO - 18 : Connected to <connection object at 0x10a41a820; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5432', closed: 0>
+2024-03-20 03:02:00,541 - INFO - 4 : Start create table youtube_videos
+2024-03-20 03:02:02,451 - INFO - 4 : Start insert data to table youtube_videos

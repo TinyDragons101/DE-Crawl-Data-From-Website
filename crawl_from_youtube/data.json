@@ -8,7 +8,7 @@
         "table_name" : "videos",
         "data_field" : [
             {
-                "field" : "id",
+                "field" : "video_id",
                 "type" : "varchar"
             },
             {
